@@ -17,25 +17,6 @@ The program is designed especially for **beginners** and is suitable for **colle
   * Days
 * Easy to understand logic
 * Beginner-friendly code
-
----
-
-## 🛠️ Technologies Used
-
-* **Python 3**
-* **datetime module**
-
----
-
-## 📂 Project Structure
-
-```
-Age-Calculator/
-│
-├── age_calculator.py
-└── README.md
-```
-
 ---
 
 ## ▶️ How to Run the Program
