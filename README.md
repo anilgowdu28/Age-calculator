@@ -19,19 +19,6 @@ The program is designed especially for **beginners** and is suitable for **colle
 * Beginner-friendly code
 ---
 
-## ▶️ How to Run the Program
-
-1. Make sure **Python 3** is installed on your system
-2. Clone this repository or download the file
-3. Open terminal / command prompt
-4. Run the program:
-
-```bash
-python age_calculator.py
-```
-
----
-
 ## 🧑‍💻 Program Code
 
 ```python
